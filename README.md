@@ -7,7 +7,7 @@ I upgraded the Horiseon webpage to meet accessibility standards. All div tags we
 
 ## Usage
 
-
+Here is the live website. [Check it out!](https://shanna-not-shawna.github.io/Horiseon-Accessibility-upgrade/)
 
 
 ![Screenshot of the Horiseon webpage](./assets/images/01-html-css-git-homework-demo.png)
